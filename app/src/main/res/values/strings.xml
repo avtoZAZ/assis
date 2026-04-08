@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WakeWord Assistant</string>
+    <string name="start_service">Start voice service</string>
+    <string name="service_running">Voice service is running in foreground.</string>
+</resources>
